@@ -1,4 +1,7 @@
 G.211.19.0102-FAHRI SETIAWAN-USM JAYA
-Jika Anda ingin membuat salinan dari repositori Git yang sudah tersedia — misalnya, 
-dari sebuah proyek yang Anda ingin ikut berkontribusi di dalamnya — perintah yang Anda butuhkan adalah git clone.
-Setiap versi dari setiap berkas yang tercatat dalam sejarah dari proyek tersebut akan ditarik ketika Anda menjalankan git clone.
+
+
+
+Fakultas Teknologi dan Informasi
+
+Kota Semarang,Jawa tengah,Indonesia 
