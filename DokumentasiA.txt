@@ -1,3 +1,0 @@
-Tagging
-Di bagian ini, Anda akan mempelajari cara membuat daftar tag yang ada, 
-cara membuat dan menghapus tag, dan apa saja jenis tag itu.
